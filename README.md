@@ -5,7 +5,7 @@ A stylesheet to be used if you want to create your own theme for a Google form. 
 
 ### Demo
 
-insert demo link for my custom form
+[Demo form in action](https://googledrive.com/host/0B3SHb_huRFdyNENfQjVzSGpIOFU/index.html)
 
 ### Stylesheet content
 
