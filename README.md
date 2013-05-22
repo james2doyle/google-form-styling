@@ -30,8 +30,6 @@ But right now I am just going to try and normalize the current stylsheet into so
 * Link the style.css stylsheet
 * Test the form and check the response in Google drive
 
-This is how the [demo form](https://googledrive.com/host/0B3SHb_huRFdyNENfQjVzSGpIOFU/index.html) is hosted.
-
 ### Hosting the form
 
 Something relatively new to Google drive is the ability to host static HTML pages.
@@ -41,6 +39,8 @@ Something relatively new to Google drive is the ability to host static HTML page
 * Open the `index.html` file in drive and click the **preview button**
 * Copy the link to the page it sends you too
 * Share that link with whoever because you are done!
+
+This is how the [demo form](https://googledrive.com/host/0B3SHb_huRFdyNENfQjVzSGpIOFU/index.html) is hosted.
 
 ### lesswatch.js
 
