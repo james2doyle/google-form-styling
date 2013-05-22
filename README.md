@@ -30,6 +30,8 @@ But right now I am just going to try and normalize the current stylsheet into so
 * Link the style.css stylsheet
 * Test the form and check the response in Google drive
 
+This is how the [demo form](https://googledrive.com/host/0B3SHb_huRFdyNENfQjVzSGpIOFU/index.html) is hosted.
+
 ### Hosting the form
 
 Something relatively new to Google drive is the ability to host static HTML pages.
@@ -49,3 +51,29 @@ just run `node lesswatch css` and it will watch all .less files and compile them
 Well then find and replace all `@` signs with `$` or remove them for stylus.
 
 I picked LESS because it has a lower barrier to entry than SASS or STYLUS. Even though I <3 Stylus the best.
+
+
+### License
+
+(The MIT License)
+
+Copyright (c) 2013 James Doyle([@james2doyle](http://twitter.com/james2doyle)) james2doyle@gmail.com
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
