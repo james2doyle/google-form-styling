@@ -17,7 +17,7 @@ I do not want to add any extra markup to the pages. The idea hear is to just cop
 
 *Think themes for bootstrap. Markup stays, stylesheets change.*
 
-But right now I am just going to try and normalize the current stylsheet into something as default as possible so that I can then create a my-theme-name.css file that contains all the variables to do the styling.
+But right now I am just going to try and normalize the current stylsheet into something as default as possible so that I can then create a my-theme-name.css file that contains all the variables to do the styling. I am currently only using the variables in LESS but eventually I will use more of the feaures to get everything nice and themeable.
 
 ### How to create a custom form
 
@@ -48,7 +48,7 @@ just run `node lesswatch css` and it will watch all .less files and compile them
 
 ### I am a LESS hater and I <3 SASS/STYLUS/BABIES
 
-Well then find and replace all `@` signs with `$` or remove them for stylus.
+Well then find and replace all `@varName` signs with `$varName` or just make the variables `varName = value` for Stylus.
 
 I picked LESS because it has a lower barrier to entry than SASS or STYLUS. Even though I <3 Stylus the best.
 
