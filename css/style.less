@@ -58,6 +58,8 @@
 @confirmationBannerBackground: #ffff87;
 @errorBoxBadBorderColor: #ffe6cc;
 
+@listChoiceItem: block;
+
 * html .goog-inline-block, *:first-child+html .goog-inline-block {
   display: inline
 }
@@ -421,6 +423,7 @@ td.ss-rightlabel {
   margin: 0;
   line-height: 1.3em;
   padding-bottom: .5em;
+  display: @listChoiceItem;
 }
 .ss-required-asterisk {
   color: @error

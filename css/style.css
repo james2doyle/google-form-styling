@@ -352,6 +352,7 @@ td.ss-rightlabel {
   margin: 0;
   line-height: 1.3em;
   padding-bottom: .5em;
+  display: block;
 }
 .ss-required-asterisk {
   color: #d10002;
