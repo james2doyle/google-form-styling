@@ -5,7 +5,8 @@ A stylesheet to be used if you want to create your own theme for a Google form. 
 
 ### Demo
 
-[Demo form in action](https://googledrive.com/host/0B3SHb_huRFdyNENfQjVzSGpIOFU/index.html)
+
+[Demo form in action](james2doyle.github.io/google-forms-styling/)
 
 ### Stylesheet content
 
@@ -40,7 +41,8 @@ Something relatively new to Google drive is the ability to host static HTML page
 * Copy the link to the page it sends you too
 * Share that link with whoever because you are done!
 
-This is how the [demo form](https://googledrive.com/host/0B3SHb_huRFdyNENfQjVzSGpIOFU/index.html) is hosted.
+[DEPRECATED]
+This is how the [demo form](https://googledrive.com/host/0B3SHb_huRFdyNENfQjVzSGpIOFU/index.html) is hosted. 
 
 ### lesswatch.js
 
