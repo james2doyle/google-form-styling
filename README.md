@@ -7,7 +7,7 @@ A stylesheet to be used if you want to create your own theme for a Google form. 
 
 ### Demo
 *Note that this styling sheet does not work with the newest version of google forms. To enable this styling sheet, the google forms needs to be revered to the old version which can be done by clicking on the bottom right hand corner quetion mark and reverting back to the old version.
-[Demo form in action](http://james2doyle.github.io/google-forms-styling/)
+[Demo form in action](https://james2doyle.github.io/google-form-styling/)
 
 ### Stylesheet content
 
